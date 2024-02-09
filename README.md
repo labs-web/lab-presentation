@@ -8,3 +8,9 @@
 - Réaliser une présentation sur comment réaliser une présentation professionnelle.
 
 ## Références
+
+## Livrable
+
+### Rapport
+
+[Rapport](https://labs-web.github.io/lab-presentation/rapport.html)
