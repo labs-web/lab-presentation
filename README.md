@@ -1,10 +1,29 @@
-# lab-presentation
+#  
 
-## Travail à faire 
+- Référence :   
 
-<!-- TODO : Rédiger le travail à faire -->
-- Réalisation d'un exemple d'une présentation valide 
-- Notez les critères de validation
-- Réaliser une présentation sur comment réaliser une présentation professionnelle.
+ 
 
-## Références
+## Backlog 
+
+Le backlog est une liste ordonées des tâches 
+
+- **chapitre** 
+- **exposé** 
+- **feature** 
+- **sous-tâche** 
+- **thème** 
+## Livrables 
+
+ 
+
+- /Backlog 
+  - Backlog 
+- /docs 
+  - Documentation 
+## Références 
+
+ 
+
+- [Autoformation](#) 
+
