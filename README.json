@@ -20,6 +20,11 @@
             {
                 "Titre":"/docs",
                 "Description":"Documentation"
+            },
+            {
+                "Titre":"/rapport",
+                "Description":"Documentation",
+                "Lien":"https://labs-web.github.io/lab-presentation/rapport.html"
             }
         ]
     },   
@@ -31,6 +36,10 @@
             {
                 "Titre":"Autoformation",
                 "Lien":"#"
+            },
+            {
+                "Titre":"github.com/labs-web",
+                "Lien":"https://labs-web.github.io/lab-presentation/rapport.html"
             }
            
         ]
