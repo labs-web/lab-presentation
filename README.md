@@ -10,6 +10,3 @@
 ## Références
 
 - [Rapport](https://labs-web.github.io/lab-presentation/)
-## Livrable
-
-### Rapport
