@@ -10,3 +10,4 @@
 ## Références
 
 - [Rapport](https://labs-web.github.io/lab-presentation/)
+- [Présentation](https://labs-web.github.io/lab-presentation/presentation.html)
