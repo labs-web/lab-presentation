@@ -1,10 +1,11 @@
 ---
-layout : default
-order : 1
+layout: default
+order: 1
 ---
 
-# Lab présentation
-
-## Rapport
-
-[Rapport](https://labs-web.github.io/lab-presentation/rapport.html)
+{% assign pages = site.pages | sort: "order" %}
+{% for page in pages %}
+ {% if page.chapitre %}
+    {{- page.content | markdownify -}}
+  {% endif %}
+{% endfor %}
