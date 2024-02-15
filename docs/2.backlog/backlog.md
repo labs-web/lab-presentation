@@ -12,15 +12,23 @@ order: 2
 <!-- note -->
 
 - docs 
-  - Introduction
+  - index.md
+  - 1.introduction
     - images
     - introduction.md
-  - Conseils pour créer une présentation efficace
-    - Compte-rendus-Conseils-pour-créer-une-présentation-efficace.md
-  - Conclusion
+  - 2.backlog
+    - backlog.md
+  - 3.les-conseils
     - images
-    - Conculsion.md
-  - Rapport.md
-  - Presentation.md
-
+    - les-conseils.md
+  - 4.exemple-de-presentation
+    - images
+    - exemple-de-presentation
+    - presentation.md
+    - rapport.md
+  - 5.conclusion
+    - images
+    - conculsion.md
+  - rapport.md
+  - presentation.html
 <!-- new slide -->
