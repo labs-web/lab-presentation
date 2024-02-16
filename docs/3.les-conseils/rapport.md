@@ -15,3 +15,8 @@ Il existe quelques règles et astuces à suivre pour créer une collection de di
 ![headline 1](/lab-presentation/3.les-conseils/images/headline1.jpg){:width="400px" }*Figure 2: introduction*
 
 ![headline 2](/lab-presentation/3.les-conseils/images/headline.jpg){:width="400px" }*Figure 3: introduction*
+
+
+En prenant en compte le sens naturel de la lecture, vous pouvez diriger le regard de votre audience vers les éléments clés d'une diapositive. Utiliser la mise en page est une façon simple mais efficace de contrôler l'ordre et la hiérarchie visuelle de l'information.
+
+Variez les tailles, les polices et les couleurs pour créer une distinction claire entre les titres et le corps du texte. Cela obligera la plupart des membres de votre audience à prendre un peu plus de temps pour organiser mentalement l'information présentée, un temps précieux qu'ils gagneraient plutôt à écouter votre présentation et à retenir l'information.
