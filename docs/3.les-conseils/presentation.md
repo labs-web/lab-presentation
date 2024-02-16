@@ -7,7 +7,10 @@ order: 1
 <!-- new slide -->
 
 ## Introduction
-![managment](/gestion-projet/5.Expose-2tup/images/managment.jpg){:width="38%" }
+![headline 1](/lab-presentation/3.les-conseils/images/headline1.jpg){:width="500px" }![headline 2](/lab-presentation/3.les-conseils/images/headline2.jpg){:width="500px" }
+
+
+
 
 <!-- new slide -->
 ## Les branches de méthode 2tup
