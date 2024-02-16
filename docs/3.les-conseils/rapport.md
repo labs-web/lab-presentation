@@ -38,3 +38,11 @@ Les diapositives ne devraient jamais présenter autant d’informations
 ![Less is more](/lab-presentation/3.les-conseils/images/less-is-more2.png){:width="400px" }*Figure 7: Less is more 2*
 
 Une erreur majeure des mauvaises présentations PowerPoint est l'accumulation excessive de détails sur une seule diapositive, rendant la mémorisation difficile. Optez pour une mise en page aérée pour focaliser l'attention sur les points clés. Utilisez la règle du 6×6 : 6 puces avec 6 mots maximum par puce, voire moins.
+
+## Utilisez des couleurs simples
+
+![color](/lab-presentation/3.les-conseils/images/color1.jpg){:width="400px" }*Figure 8: Exemple de color*
+
+![color](/lab-presentation/3.les-conseils/images/color2.jpg){:width="400px" }*Figure 9: Exemple de color*
+
+Limitez-vous à des couleurs simples, qu’elles soient claires ou sombres. Les couleurs trop vibrantes fatiguent l’oeil, alors utilisez-les avec parcimonie. Les textes sombres sur fond clair ou, inversement, les textes clairs sur fond sombre sont une valeur sûre. Evitez également les dégradés trop marqués, qui peuvent entraver la lecture du texte.

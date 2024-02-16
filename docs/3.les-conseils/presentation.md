@@ -26,3 +26,9 @@ order: 1
 ## Appliquez la règle du 6×6
 
 ![Less is more](/lab-presentation/3.les-conseils/images/less-is-more.png){:width="500px" } ![Less is more](/lab-presentation/3.les-conseils/images/less-is-more2.png){:width="500px" }
+
+<!-- new slide -->
+
+## Utilisez des couleurs simples
+
+![color](/lab-presentation/3.les-conseils/images/color1.jpg){:width="500px" } ![color](/lab-presentation/3.les-conseils/images/color2.jpg){:width="500px" }
