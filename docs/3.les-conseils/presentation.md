@@ -32,3 +32,7 @@ order: 1
 ## Utilisez des couleurs simples
 
 ![color](/lab-presentation/3.les-conseils/images/color1.jpg){:width="500px" } ![color](/lab-presentation/3.les-conseils/images/color2.jpg){:width="500px" }
+
+<!-- new slide -->
+
+## Conclusion
