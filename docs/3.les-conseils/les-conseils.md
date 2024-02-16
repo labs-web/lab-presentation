@@ -13,5 +13,5 @@ Pour réussir une présentation professionnelle, il faut d'abord définir claire
 ## Lien de présentation
 [Présentation](/lab-presentation/3.les-conseils/presentation.html)
 ## Lien de documentation
-[documentation](/lab-presentation/3.les-conseils/documentation.html)
+[documentation](/lab-presentation/3.les-conseils/rapport.html)
 <!-- new slide -->
