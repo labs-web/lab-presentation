@@ -35,4 +35,38 @@ order: 1
 
 <!-- new slide -->
 
+## Utilisez des polices Sans-Serif
+
+
+![color](/lab-presentation/3.les-conseils/images/police.jpg){:width="700px" } 
+
+<!-- new slide -->
+
+## Utilisez une police égale ou supérieure à 30pts
+
+
+![color](/lab-presentation/3.les-conseils/images/police2.jpg){:width="700px" } 
+
+<!-- new slide -->
+
+## Evitez de trop styliser votre texte
+
+
+![color](/lab-presentation/3.les-conseils/images/styleText.jpg){:width="700px" } 
+
+<!-- new slide -->
+
+## Choisissez les bonnes images
+
+
+![color](/lab-presentation/3.les-conseils/images/presenting.jpg){:width="700px" } 
+
+<!-- new slide -->
+
+
+
 ## Conclusion
+
+![color](/lab-presentation/3.les-conseils/images/conseils.jpg){:width="500px" } 
+
+<!-- new slide -->

@@ -46,3 +46,43 @@ Une erreur majeure des mauvaises présentations PowerPoint est l'accumulation ex
 ![color](/lab-presentation/3.les-conseils/images/color2.jpg){:width="400px" }*Figure 9: Exemple de color*
 
 Limitez-vous à des couleurs simples, qu’elles soient claires ou sombres. Les couleurs trop vibrantes fatiguent l’oeil, alors utilisez-les avec parcimonie. Les textes sombres sur fond clair ou, inversement, les textes clairs sur fond sombre sont une valeur sûre. Evitez également les dégradés trop marqués, qui peuvent entraver la lecture du texte.
+
+## Utilisez des polices Sans-Serif
+
+![color](/lab-presentation/3.les-conseils/images/police.jpg){:width="400px" }*Figure 10: Exemple de police*
+
+Traditionnellement, on considère que les polices serif (Times New Roman, Garamond, Bookman) sont plus adaptées au format papier, et les polices sans-serif (Helvetica, Tahoma, Verdana) facilitent la lecture sur écran.
+Essayez de vous limiter à une police, ou deux maximum. Chaque police a sa propre propre personnalité et son impact émotionnel, donc assurez-vous que celles que vous utilisez s’accordent au ton, aux objectifs et au contenu de votre présentation.
+
+## Utilisez une police égale ou supérieure à 30pts
+
+![color](/lab-presentation/3.les-conseils/images/police2.jpg){:width="400px" }*Figure 11: Exemple de police*
+
+De nombreux experts s’accordent à dire que votre police devrait faire au moins 30pts. Cette taille vous assure non seulement que votre texte sera lisible, mais vous forcera également à n’inclure que les points les plus importants de votre message, présentés de manière efficiente pour compenser le manque d’espace.
+
+## Evitez de trop styliser votre texte
+
+
+![color](/lab-presentation/3.les-conseils/images/styleText.jpg){:width="400px" }*Figure 12: Exemple de style*
+
+Les trois façons les plus simples et efficaces pour attirer l’attention sur votre texte sont :
+- Le gras
+- L’italique
+- Le changement de couleur
+
+Nos yeux sont naturellement attirés lorsqu’un élément est stylisé différemment du reste. Mais utilisez ces changements avec parcimonie, car trop d’effets de texte encombre et distrait la lecture.
+
+## Choisissez les bonnes images
+
+![color](/lab-presentation/3.les-conseils/images/presenting.jpg){:width="400px" }*Figure 13: Exemple d'image*
+
+Les images utilisées lors de votre présentation sont peut-être aussi importantes que votre texte. Il vous faudra des images qui non seulement supportent votre message, mais le renforcent également. 
+Les images de présentation idéales sont :
+- Evocarices
+- Authentiques
+- Inspirantes
+
+## Conclusion 
+![color](/lab-presentation/3.les-conseils/images/conseils.jpg){:width="400px" }*Figure 14: Conclusion*
+
+En conclusion, l'élaboration d'une présentation professionnelle nécessite une planification réfléchie, des objectifs clairs, des visuels attrayants, une pratique méticuleuse et une ouverture aux commentaires. En adhérant à ces principes, les présentateurs peuvent communiquer efficacement leur message, laissant une impression durable sur leur public.
