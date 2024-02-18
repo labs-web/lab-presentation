@@ -3,10 +3,9 @@ layout: default
 chapitre: Introduction
 order: 1
 ---
-<!--  -->
 
 # Introduction
-![Les conseils](/lab-presentation/1.introduction/images/intro.jpg){:width="400px" }*Figure 1: Introduction*
+![Les conseils](/lab-presentation/1.introduction/images/intro.jpg){:width="600px" }*Figure 1: Introduction*
 
 <!-- note -->
 
