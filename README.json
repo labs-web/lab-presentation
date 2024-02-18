@@ -33,10 +33,7 @@
         "Titre" : "Références",
         "Introduction":"",
         "References": [
-            {
-                "Titre":"Autoformation",
-                "Lien":"#"
-            },
+
             {
                 "Titre":"github.com/labs-web",
                 "Lien":"https://labs-web.github.io/lab-presentation/rapport.html"
