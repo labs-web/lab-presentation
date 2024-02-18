@@ -12,7 +12,6 @@ order: 2
 <!-- note -->
 
 - docs 
-  - index.md
   - 1.introduction
     - images
     - introduction.md
@@ -21,14 +20,16 @@ order: 2
   - 3.les-conseils
     - images
     - les-conseils.md
+    - presentation.md
+    - rapport.md
   - 4.exemple-de-presentation
     - images
     - exemple-de-presentation
     - presentation.md
-    - rapport.md
   - 5.conclusion
     - images
     - conculsion.md
+  - index.md
   - rapport.md
   - presentation.html
 <!-- new slide -->
