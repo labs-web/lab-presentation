@@ -36,4 +36,5 @@ Le backlog est une liste ordonées des tâches
 
 - [Rapport](https://labs-web.github.io/lab-presentation/) 
 - [github.com/labs-web](https://labs-web.github.io/lab-presentation/presentation.html) 
-
+- [Référence](https://www.shutterstock.com/fr/blog/belles-presentations-powerpoint?irgwc=1&utm_content=42119&utm_medium=Affiliate&utm_term=442763&utm_campaign=admitad%20GmbH%20-%20Shutterstock&utm_source=274393&irclickid=0T7yrTyd-xyPULP1PbXXE3RWUkH1kJ0lJR4Tx80) 
+  
