@@ -34,7 +34,6 @@ Le backlog est une liste ordonées des tâches
 
  
 
-- [Autoformation](#) 
-- [github.com/labs-web](https://labs-web.github.io/lab-presentation/rapport.html) 
-- [github.com/labs-web](https://labs-web.github.io/lab-presentation/presentation.html) 
+- [Rapport](https://labs-web.github.io/lab-presentation/) 
+- [Présentation](https://labs-web.github.io/lab-presentation/presentation.html) 
 
