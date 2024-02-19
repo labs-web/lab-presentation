@@ -8,18 +8,18 @@ order: 1
 
 ## Introduction
 
-![Meta](/lab-presentation/4.exemple-de-presentation/images/metaLogo.jpg){:width="600px" }
+![Meta](/lab-presentation/exemple-de-presentation/images/metaLogo.jpg){:width="600px" }
 
 <!-- new slide -->
 ## Founder
 
-![Founder](/lab-presentation/4.exemple-de-presentation/images/founder.jpg){:width="700px" }
+![Founder](/lab-presentation/exemple-de-presentation/images/founder.jpg){:width="700px" }
 
 <!-- new slide -->
 
 ## History
 
-![History](/lab-presentation/4.exemple-de-presentation/images/History.jpg){:width="700px" }
+![History](/lab-presentation/exemple-de-presentation/images/History.jpg){:width="700px" }
 
 <!-- new slide -->
 
@@ -35,5 +35,5 @@ order: 1
 <!-- new slide -->
 ## Statistics
 
-![statistics](/lab-presentation/4.exemple-de-presentation/images/statistic.png){:width="700px" }
+![statistics](/lab-presentation/exemple-de-presentation/images/statistic.png){:width="700px" }
 
