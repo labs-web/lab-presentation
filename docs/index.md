@@ -10,4 +10,3 @@ order: 1
     {{- page.content | markdownify -}}
   {% endif %}
 {% endfor %}
-
