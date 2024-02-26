@@ -1,5 +1,5 @@
 ---
-layout: presentation
+layout: default
 order: 1
 ---
 
